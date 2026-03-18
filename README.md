@@ -10,17 +10,10 @@ AI-powered sales call quality assurance, directly in your terminal. Pitch|Parse 
 
 ## Installation
 
-### Via install script
+### Clone and run locally
 
 ```bash
-cd your-project/
-curl -fsSL https://pitchparse.com/install.sh | sh
-```
-
-Or clone and run locally:
-
-```bash
-git clone https://github.com/jinga-lala/pitchparse-cli.git
+git clone https://github.com/J0ngAh/pitchparse-cli.git
 cd pitchparse-cli
 sh install.sh
 ```
